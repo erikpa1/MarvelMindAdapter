@@ -1,0 +1,1 @@
+go build -o infinity.dll -buildmode=c-shared main.go
